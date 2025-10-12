@@ -1,0 +1,22 @@
+html{
+        font-size: 30px;
+    }
+    body{
+        font-size: 1rem;
+    }
+p[draggable="true"]{
+    color: coral;
+}
+#pixel{
+    font-size: 60px;
+}
+#weight{
+    font-weight: 900;
+}
+#hiza{
+    text-align:right;
+}
+#font-400{
+    font-family: 'caveat', cursive;
+    font-weight: 400;
+}
