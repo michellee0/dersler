@@ -1,0 +1,29 @@
+    #kutu {
+  background-color: purple;
+  padding: 10px;
+}
+ #kutu2{
+    background-color: blue;
+    padding: 10px;
+    color: white;
+ }
+ #kutu3{
+    background-color: red;
+    padding: 5px;
+    color: white;
+ }
+#p{
+  color: yellow
+  padding: 0
+  border: blue solid 10px;
+}
+#font{
+    font-size: 20px;
+}
+.h3{
+    color: red;
+}
+.back{
+    background-color: white;
+    border: solid green 10px;
+}
