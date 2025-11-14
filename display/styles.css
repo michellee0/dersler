@@ -1,0 +1,37 @@
+    div {
+      display: inline-block;
+      width: 40%;
+    }
+
+    p {
+      font-size: 2em;
+    }
+
+    .cat {
+      background-color: aquamarine;
+     float: left;
+      display: inline-block;
+    }
+
+    .img{
+      float: left;
+    }
+
+    .dog {
+      background-color: coral;
+    float: right;
+      display: inline-block;
+    }
+    
+
+    footer {
+      text-align: center;
+      background-color: blueviolet;
+      clear: both;
+   }
+   
+   .img2{
+    float: right;
+   }
+    
+    
