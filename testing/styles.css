@@ -1,0 +1,20 @@
+#baslık{
+    background-color: aqua;
+    color: rgb(0, 0, 0);
+    font-family: Times, 'Times New Roman', serif;
+    text-align: center;
+    font-size: 45px;
+}
+.img{
+    width: 300px;
+    display: inline-block;
+}
+h2{
+    background-color:cadetblue;
+    color: white;
+}
+h3{
+    background-color: tomato;
+    color: white;
+    font-size: 20px;
+}
